@@ -10,11 +10,9 @@ color: white;
     linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%),
     /* Then image below */
     url('../../images/background2.jpg');
-  padding: 150px 300px
+  padding: 150px 0px
   background-position: center;
-  height: 300px;
-  width: 100%;
-  padding-top: auto;
+  background-size: cover;
 }
 
 .banner h1 {
